@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1665460185 source:c:\users\welbe\onedrive\documentos\atividades acadêmicas\puc\eng. de software\algoritmos e estruturas de dados i\trabalhos\03 - 1ª lista de exercícios\04 - comandos de repetição - welbert\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+
