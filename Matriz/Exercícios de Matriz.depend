@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668464639 source:c:\users\welbe\desktop\eng. de software\algoritmos e estruturas de dados i\trabalhos\arquivo\exercícios de matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
